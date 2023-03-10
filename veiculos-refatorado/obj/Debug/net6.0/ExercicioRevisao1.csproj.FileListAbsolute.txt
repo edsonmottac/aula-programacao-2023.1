@@ -1,0 +1,15 @@
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\bin\Debug\net6.0\ExercicioRevisao1.exe
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\bin\Debug\net6.0\ExercicioRevisao1.deps.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\bin\Debug\net6.0\ExercicioRevisao1.runtimeconfig.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\bin\Debug\net6.0\ExercicioRevisao1.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\bin\Debug\net6.0\ExercicioRevisao1.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\ExercicioRevisao1.csproj.AssemblyReference.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\ExercicioRevisao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\ExercicioRevisao1.AssemblyInfoInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\ExercicioRevisao1.AssemblyInfo.cs
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\ExercicioRevisao1.csproj.CoreCompileInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\ExercicioRevisao1.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\refint\ExercicioRevisao1.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\ExercicioRevisao1.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\ExercicioRevisao1.genruntimeconfig.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\MyAPP\ExercicioRevisao1\obj\Debug\net6.0\ref\ExercicioRevisao1.dll

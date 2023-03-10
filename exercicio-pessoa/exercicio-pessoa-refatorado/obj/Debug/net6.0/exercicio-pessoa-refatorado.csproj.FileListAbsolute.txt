@@ -1,0 +1,15 @@
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\bin\Debug\net6.0\exercicio-pessoa-refatorado.exe
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\bin\Debug\net6.0\exercicio-pessoa-refatorado.deps.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\bin\Debug\net6.0\exercicio-pessoa-refatorado.runtimeconfig.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\bin\Debug\net6.0\exercicio-pessoa-refatorado.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\bin\Debug\net6.0\exercicio-pessoa-refatorado.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\exercicio-pessoa-refatorado.csproj.AssemblyReference.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\exercicio-pessoa-refatorado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\exercicio-pessoa-refatorado.AssemblyInfoInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\exercicio-pessoa-refatorado.AssemblyInfo.cs
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\exercicio-pessoa-refatorado.csproj.CoreCompileInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\exercicio-pessoa-refatorado.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\refint\exercicio-pessoa-refatorado.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\exercicio-pessoa-refatorado.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\exercicio-pessoa-refatorado.genruntimeconfig.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\exercicio-pessoa\exercicio-pessoa-refatorado\obj\Debug\net6.0\ref\exercicio-pessoa-refatorado.dll

@@ -1,0 +1,15 @@
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\bin\Debug\net6.0\Veiculos.exe
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\bin\Debug\net6.0\Veiculos.deps.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\bin\Debug\net6.0\Veiculos.runtimeconfig.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\bin\Debug\net6.0\Veiculos.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\bin\Debug\net6.0\Veiculos.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\Veiculos.csproj.AssemblyReference.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\Veiculos.AssemblyInfoInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\Veiculos.AssemblyInfo.cs
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\Veiculos.csproj.CoreCompileInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\Veiculos.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\refint\Veiculos.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\Veiculos.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\Veiculos.genruntimeconfig.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\Exercicio1\obj\Debug\net6.0\ref\Veiculos.dll
