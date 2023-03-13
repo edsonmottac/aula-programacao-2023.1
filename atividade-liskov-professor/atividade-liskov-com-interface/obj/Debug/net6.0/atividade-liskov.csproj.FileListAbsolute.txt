@@ -1,0 +1,15 @@
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\bin\Debug\net6.0\atividade-liskov.exe
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\bin\Debug\net6.0\atividade-liskov.deps.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\bin\Debug\net6.0\atividade-liskov.runtimeconfig.json
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\bin\Debug\net6.0\atividade-liskov.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\bin\Debug\net6.0\atividade-liskov.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\atividade-liskov.csproj.AssemblyReference.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\atividade-liskov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\atividade-liskov.AssemblyInfoInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\atividade-liskov.AssemblyInfo.cs
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\atividade-liskov.csproj.CoreCompileInputs.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\atividade-liskov.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\refint\atividade-liskov.dll
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\atividade-liskov.pdb
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\atividade-liskov.genruntimeconfig.cache
+D:\Dropbox\research\academico\AULAS\ATIVIDADES\2023.1\cimatec\disciplinas\PROGRAMAÇÃO III\codigos\atividade-liskov\obj\Debug\net6.0\ref\atividade-liskov.dll
